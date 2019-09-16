@@ -28,8 +28,8 @@ http://localhost:8000/movies?genre=action&country=united%20states&avg_vote=7
 ### Powered by
 [Express](https://expressjs.com/) | [NPM](https://www.npmjs.com/)
 
-[Cors](https://www.npmjs.com/package/cors)
-[Helmet](https://www.npmjs.com/package/helmet)
+[Cors](https://www.npmjs.com/package/cors) |
+[Helmet](https://www.npmjs.com/package/helmet) | 
 [Morgan](https://www.npmjs.com/package/morgan)
 
 ### Contributors
